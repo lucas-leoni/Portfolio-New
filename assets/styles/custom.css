@@ -1,0 +1,32 @@
+.header {
+    background-color: #F9C63E;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1; /* sobrepor o conteudo posterior */
+  }
+  
+  .header-menu {
+    text-align: right;
+  }
+  
+  .header-menu ul li{
+    color: #000;
+    display: inline-block;
+    margin-left: 25px;
+    margin-top: 20px;
+  }
+  
+  .header-menu ul li a{
+    text-decoration: none;
+    color: #000;
+    line-height: 20px;
+    padding: 10px 0;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  
+  
+  .header-menu ul li a:hover{ 
+    color: #fff;
+  }
