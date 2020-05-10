@@ -134,3 +134,64 @@ body {
     right: -5px;
     bottom: 0px;
 }
+
+.section3 {
+    position: relative;
+}
+
+.image8 {
+    width: 375px;
+    height: 164px;
+    position: relative;
+    top: 132px;
+    left: 303.5px;
+}
+
+.ielusc {
+    text-align: left;
+    width: 400px;
+    font-size: 20px;
+    line-height: 1.25;
+    color: chartreuse;
+    position: relative;
+    left: 732.5px;
+    top: 11px;
+}
+
+.medici {
+    text-align: left;
+    width: 400px;
+    font-size: 20px;
+    line-height: 1.25;
+    color: chartreuse;
+    position: relative;
+    top: 100px;
+    left: 303.5px;
+}
+
+.image9 {
+    width: 375px;
+    height: 164px;
+    position: relative;
+    left: 678.5px;
+    bottom: 21px;
+}
+
+.image10 {
+    width: 375px;
+    height: 164px;
+    position: relative;
+    right: 75.5px;
+    top: 144px;
+}
+
+.maria {
+    text-align: left;
+    width: 400px;
+    font-size: 20px;
+    line-height: 1.25;
+    color: chartreuse;
+    position: relative;
+    left: 682.5px;
+    top: 21px;
+}
