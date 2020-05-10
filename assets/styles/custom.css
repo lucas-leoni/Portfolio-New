@@ -79,3 +79,58 @@ body {
     top: 125px;
     color: chartreuse;
 }
+.section2 {
+    position: relative;
+    margin-top: 131px;
+    height: 490px;
+}
+
+.container2 {
+    width: 1300px;
+    height: 475px;
+    position: absolute;
+    top: 10px;
+    left: 35px;
+}
+
+.image2 {
+    width: 200px;
+    height: 475px;
+}
+
+.image3 {
+    width: 417.5px;
+    height: 230px;
+    position: absolute;
+    top: 0px;
+    left: 220px;
+}
+
+.image4 {
+    width: 417.5px;
+    height: 230px;
+    position: relative;
+    left: 17px;
+}
+
+.image5 {
+    width: 200px;
+    height: 475px;
+    position: relative;
+    left: 35px;
+}
+
+.image6 {
+    width: 417.5px;
+    height: 230px;
+    position: absolute;
+    right: 0px;
+}
+
+.image7 {
+    width: 430px;
+    height: 230px;
+    position: absolute;
+    right: -5px;
+    bottom: 0px;
+}
