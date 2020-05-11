@@ -1,0 +1,344 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: teal;
+    color: white;
+}
+
+.header {
+    background-color: lightslategrey;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+  
+.logo {
+    width: 100px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.header-menu {
+    text-align: right;
+}
+  
+.header-menu ul li{
+    color: white;
+    display: inline-block;
+    margin-left: 37px;
+    margin-top: 57px;
+    font-size: 25px;
+}
+  
+.header-menu ul li a{
+    text-decoration: none;
+    color: white;
+    line-height: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+  
+.header-menu ul li a:hover{ 
+    color: chartreuse;
+}
+
+.section1 {
+    position: relative;
+}
+
+.image1{
+    width: 200px;
+    border-radius: 50%;
+    position: relative;
+    top: 278px;
+    left: 160px;
+}
+
+.div1 {
+    position: relative;
+    width: 800px;
+}
+
+.h1 {
+    position: relative;
+    text-align: center;
+    left: 448px;
+    top: 75px;
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: chartreuse;
+}
+
+.p1{
+    text-align: left;
+    font-size: 20px;
+    line-height: 1.25;
+    position: relative;
+    left: 450px;
+    top: 125px;
+    color: chartreuse;
+}
+.section2 {
+    position: relative;
+    margin-top: 131px;
+    height: 490px;
+}
+
+.container2 {
+    width: 1300px;
+    height: 475px;
+    position: absolute;
+    top: 10px;
+    left: 35px;
+}
+
+.image2 {
+    width: 200px;
+    height: 475px;
+    border-radius: 10px;
+}
+
+.image3 {
+    width: 417.5px;
+    height: 230px;
+    position: absolute;
+    top: 0px;
+    left: 220px;
+    border-radius: 10px;
+}
+
+.image4 {
+    width: 417.5px;
+    height: 230px;
+    position: relative;
+    left: 17px;
+    border-radius: 10px;
+}
+
+.image5 {
+    width: 200px;
+    height: 475px;
+    position: relative;
+    left: 35px;
+    border-radius: 10px;
+}
+
+.image6 {
+    width: 417.5px;
+    height: 230px;
+    position: absolute;
+    left: 170px;
+    bottom: 198px;
+    border-radius: 10px;
+}
+
+.image7 {
+    width: 430px;
+    height: 230px;
+    position: absolute;
+    right: -5px;
+    bottom: 0px;
+    border-radius: 10px;
+}
+
+.section3 {
+    position: relative;
+}
+
+.a-ielusc {
+    text-decoration: none;
+}
+
+.image8 {
+    width: 375px;
+    height: 164px;
+    position: relative;
+    top: 132px;
+    left: 303.5px;
+    border-radius: 10px;
+}
+
+.ielusc {
+    text-align: left;
+    width: 400px;
+    font-size: 20px;
+    line-height: 1.25;
+    color: chartreuse;
+    position: relative;
+    left: 732.5px;
+    top: 11px;
+}
+
+.a-medici {
+    text-decoration: none;
+}
+
+.medici {
+    text-align: left;
+    width: 400px;
+    font-size: 20px;
+    line-height: 1.25;
+    color: chartreuse;
+    position: relative;
+    top: 100px;
+    left: 303.5px;
+}
+
+.image9 {
+    width: 375px;
+    height: 164px;
+    position: relative;
+    left: 678.5px;
+    bottom: 21px;
+    border-radius: 10px;
+}
+
+.a-maria {
+    text-decoration: none;
+}
+
+.image10 {
+    width: 375px;
+    height: 164px;
+    position: relative;
+    right: 75.5px;
+    top: 144px;
+    border-radius: 10px;
+}
+
+.maria {
+    text-align: left;
+    width: 400px;
+    font-size: 20px;
+    line-height: 1.25;
+    color: chartreuse;
+    position: relative;
+    left: 682.5px;
+    top: 21px;
+}
+
+.section4 {
+    position: relative;
+}
+
+.contatos {
+    position: relative;
+    top: 216px;
+    left: 90px;
+    height: 324px;
+    border-radius: 10px;
+}
+
+.gmail {
+    width: 37px;
+    height: 37px;
+    position: relative;
+    left: 200px;
+    bottom: 66px;
+}
+
+.p-gmail {
+    font-size: 20px;
+    color: chartreuse;
+    position: absolute;
+    right: 300px;
+    top: 231px;
+}
+
+.whats {
+    width: 37px;
+    height: 37px;
+    position: relative;
+    left: 160px;
+    top: -17px;
+}
+
+.p-whats {
+    font-size: 20px;
+    color: chartreuse;
+    position: absolute;
+    right: 355px;
+    top: 281px;
+}
+
+.linkedin {
+    width: 37px;
+    height: 37px;
+    position: relative;
+    left: 117px;
+    top: 40px;
+}
+
+.a-linkedin {
+    text-decoration: none;
+}
+
+.p-linkedin {
+    font-size: 20px;
+    color: chartreuse;
+    position: absolute;
+    right: 80px;
+    top: 336px;
+}
+
+.facebook {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    right: 539px;
+    top: 378px;
+}
+
+.a-facebook {
+    text-decoration: none;
+}
+
+.p-facebook {
+    font-size: 20px;
+    color: chartreuse;
+    position: absolute;
+    right: 158px;
+    top: 394px;
+}
+
+.a-instagram {
+    text-decoration: none;
+}
+
+.instagram {
+    width: 37px;
+    height: 37px;
+    position: absolute;
+    right: 545px;
+    top: 436px;
+}
+
+.p-instagram {
+    font-size: 20px;
+    color: chartreuse;
+    position: absolute;
+    right: 218px;
+    top: 446px;
+}
+
+.a-github {
+    text-decoration: none;
+}
+
+.github {
+    width: 37px;
+    height: 37px;
+    position: absolute;
+    right: 545px;
+    top: 493px;
+    border-radius: 50%;
+}
+
+.p-github {
+    font-size: 20px;
+    color: chartreuse;
+    position: absolute;
+    right: 268px;
+    top: 501px;
+}
