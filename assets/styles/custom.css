@@ -139,6 +139,10 @@ body {
     position: relative;
 }
 
+.a-ielusc {
+    text-decoration: none;
+}
+
 .image8 {
     width: 375px;
     height: 164px;
@@ -158,6 +162,10 @@ body {
     top: 11px;
 }
 
+.a-medici {
+    text-decoration: none;
+}
+
 .medici {
     text-align: left;
     width: 400px;
@@ -175,6 +183,10 @@ body {
     position: relative;
     left: 678.5px;
     bottom: 21px;
+}
+
+.a-maria {
+    text-decoration: none;
 }
 
 .image10 {
